@@ -1,5 +1,5 @@
 var nama = 'bill'
-var peran = 'tabib'
+var peran = 'ksatria'
 
 if (nama === 'albert' && peran === '') {
   console.log('Hello ' + nama + ' pilih peranmu untuk bermain')
@@ -12,5 +12,5 @@ if (nama === 'albert' && peran === '') {
 } else if (nama === '' && peran === '') {
   console.log('nama harus isi!')
 } else {
-    console.log('invalid')
+  console.log('invalid')
 }
